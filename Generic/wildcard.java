@@ -1,4 +1,4 @@
-package D5_7;
+package Generic;
 
 import java.util.ArrayList;
 import java.util.List;
