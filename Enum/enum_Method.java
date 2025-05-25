@@ -1,4 +1,4 @@
-package D5_9;
+package Enum;
 
 /**
  *  about: 枚举  关键词：enum

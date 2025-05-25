@@ -1,4 +1,4 @@
-package D5_9;
+package Enum;
 
 /**
  *  about: error_code 一个标准的错误码枚举类
